@@ -1,0 +1,24 @@
+1.DATATYPES
+
+2.OOPS
+
+3.OPERATORS ++,--,>>>,<<<,BITWISE,
+                2*2^4
+
+4.control STATEMENTS
+         CONDITION
+         SELECTION
+         ITERATION
+
+5.EXCEPTION HANDLING  
+          TRY
+          CATCH 
+          THROW
+          FINALLY
+
+6.COLLECTION
+          NEED TO KNOW ALL CLASSES
+
+
+7.MULTITHREADING LIFE CYCLE
+
